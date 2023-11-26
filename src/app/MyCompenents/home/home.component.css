@@ -1,0 +1,5 @@
+.home-wrapper{
+    height: 100vh;
+    background: rgb(58,238,203);
+background: linear-gradient(0deg, rgba(58,238,203,1) 0%, rgba(171,247,12,1) 100%);
+}
